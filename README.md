@@ -1,4 +1,4 @@
 # composer-test-package
 composer test package
 
-release 6.0
+release 7.0
